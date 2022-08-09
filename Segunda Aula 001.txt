@@ -1,0 +1,68 @@
+PROCESSO DE DESENVOLVILMENTO DE SOFTWARE
+
+AV1 - Nossa (nós) 100% - 40% trab + 60% prova
+AV2 - Prova Integrada 100%
+
+(AV1+AV2 )/ 2
+------------------
+
+
+Sistemas da Informação
+
+*Engenharia de Software - década de 60 e 70.
+NeCESSIDADE PAI DA INVENÇÃO
+-INTERNET
+-TCP/IP
+-COMPUTADORES , HARDWARES --- (Circuito Integrado)
+
+-poucos programadores
+-poucas empresas 
+-muita necessidade
+-pouca tecnologia
+
+
+SOFTWARES !!!!!
+QUALIDADE DE SOFTWARES !!!!
+
+
+-Engenharia, matemática e Biologia.
+
+	Design Patterns - padrões de projeto.
+
+
+
+Processos de DESENVOLVIMENTO DE SOTWARES
+
+
+O que são Processos ? 
+etapas, procedimentos, métodos de oganização, meio de avanço, resultado ou objetivo, estrutura ... 
+ CONJUNTO DE ETAPAS CONTÍNUA
+Ex. limpar a casa todo dia - a casa limpa.
+
+MACEDO(2022)"continuo de sempre se repetir quando conclui o objetivo "
+SIM
+
+
+	Projeto - Produto. (começo, meio e fim)
+	Um conjunto de etapas que tem por finalidade entregar um resultado, objeto ou produto .
+
+Macedo(2022)"etapas"
+Santos(2022)"tipo de etapas para chegar ao resultado"
+Silva,A(2022)"procedimentos"
+Silva,P.(2022)"meios de chegar ao resultado"
+Cardoso(2022)"etapas para chegar em um determinado objetivo"
+Lima(2022)"método de organização"
+Almeida(2022)"meio de avanço"
+MACEDO(2022)"etapas em meio a um fluxo  por exemplo para concluir uma determinada tarefa ou alcançar um objetivo"
+VIRGENS(2022)"Um processo é um conjunto de atividades estruturadas e medidas destinadas
+para obter um resultado"
+
+
+
+DESENVOLVIMENTO DE SOTWARES
+
+
+GIT - versionamento
+
+
+
